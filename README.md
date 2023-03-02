@@ -20,6 +20,10 @@ Para probar la aplicación en tu propia máquina, sigue estos pasos:
 3. Ejecuta `npm install` para instalar todas las dependencias necesarias.
 4. Ejecuta `npm start` para iniciar la aplicación en tu navegador.
 
+También puedes probar la aplicación en línea en este enlace: [Link](https://glespinola.github.io/react-task-app)
+
+*Por el momento, la aplicación no está optimizada para dispositivos móviles, pero se espera que pronto se lance una actualización para corregir este problema.*
+
 ## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, realiza un fork del repositorio y crea una rama con tus cambios. Luego, crea una solicitud de extracción describiendo tus cambios y cómo contribuyen a la aplicación.
